@@ -1,0 +1,23 @@
+{
+    "mcpServers": {
+        "filesystem": {
+            "command": "cmd",
+            "args": [
+                "/c",
+                "npx",
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "C:\\Users\\Daniel A. Sanchez S\\Desktop\\practical-mcp"
+            ]
+        },
+        "playwright": {
+            "command": "cmd",
+            "args": [
+                "/c",
+                "npx",
+                "-y",
+                "@playwright/mcp@latest"
+            ]
+        }
+    }
+}
