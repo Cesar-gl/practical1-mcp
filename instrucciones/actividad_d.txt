@@ -1,0 +1,1 @@
+Usa las herramientas del servidor MCP memory. 1) Crea una entidad llamada "Practica MCP" con la observacion "Completada en Antigravity usando los servidores filesystem, playwright y memory". 2) Busca la entidad "Practica MCP" y dime que observaciones tiene guardadas.
